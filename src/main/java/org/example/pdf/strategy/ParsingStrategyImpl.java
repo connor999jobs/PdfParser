@@ -16,12 +16,7 @@ public class ParsingStrategyImpl implements ParsingStrategy{
         PDDocument document = PDDocument.load(file);
         PDFTextStripper stripper = new PDFTextStripper();
         String text = stripper.getText(document);
-        return getList(text, cls);
-    }
-
-    private <T> List<T> getList(String text, Class<?> cls) {
         return null;
     }
-
 
 }
