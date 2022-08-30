@@ -1,0 +1,77 @@
+[[CategoryCategory | Budget | Actual
+Auto | 200,00 UAH | 90,00 UAH
+Entertainment | 200,00 UAH | 32,00 UAH
+Food | 350,00 UAH | 205,75 UAH
+Home | 300,00 UAH | 250,00 UAH
+Medical | 100,00 UAH | 35,00 UAH
+Personal Items | 300,00 UAH | 80,00 UAH
+Travel | 500,00 UAH | 350,00 UAH
+Utilities | 200,00 UAH | 100,00 UAH
+Other | 50,00 UAH | 60,00 UAH
+Total | 2 200,00 UAH | 1 202,75 UAH
+], [Category | Diﬀerence
+Auto | 110,00 UAH
+Entertainment | 168,00 UAH
+Food | 144,25 UAH
+Home | 50,00 UAH
+Medical | 65,00 UAH
+Personal Items | 220,00 UAH
+Travel | 150,00 UAH
+Utilities | 100,00 UAH
+Other | (10,00 UAH)
+Total | 997,25 UAH
+], [Date | Description | Category
+01/11/20 | Shopping | Food
+01/11/20 | Rug | Home
+02/11/20 | Flight No | Travel
+02/11/20 | Petrol | Auto
+02/11/20 | Cinema Tickets | Entertainment
+02/11/20 | Dinner Out | Food
+18/11/20 | Medicine | Medical
+21/11/20 | Shoes | Personal Items
+22/11/20 | Gift | Other
+23/11/20 | Telephone | Utilities
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+], [Amount
+155,00 UAH
+250,00 UAH
+350,00 UAH
+90,00 UAH
+32,00 UAH
+50,75 UAH
+35,00 UAH
+80,00 UAH
+60,00 UAH
+100,00 UAH
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+]]

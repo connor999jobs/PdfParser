@@ -1,0 +1,9 @@
+[RowStructure(category=Auto, budget=200,00 UAH, actual=90,00 UAH),
+RowStructure(category=Entertainment, budget=200,00 UAH, actual=32,00 UAH),
+RowStructure(category=Food, budget=350,00 UAH, actual=205,75 UAH),
+RowStructure(category=Home, budget=300,00 UAH, actual=250,00 UAH),
+RowStructure(category=Medical, budget=100,00 UAH, actual=35,00 UAH),
+RowStructure(category=Personal Items, budget=300,00 UAH, actual=80,00 UAH),
+RowStructure(category=Travel, budget=500,00 UAH, actual=350,00 UAH),
+RowStructure(category=Utilities, budget=200,00 UAH, actual=100,00 UAH),
+RowStructure(category=Other, budget=50,00 UAH, actual=60,00 UAH)]
